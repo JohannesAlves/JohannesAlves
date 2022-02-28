@@ -1,13 +1,13 @@
 <h1 align="center">Olá! 👋,eu sou Johannes A.</h1>
 <h3 align="center">Em busca de me aperfeiçoar nas tecnologias HTML - CSS - JAVASCRIPT - REACT.JS - REACT NATIVE</h3>
 
-- 🌱 I’m currently learning **HTML - CSS - JAVASCRIPT - REACT JS - REACT NATIVE**
+- 🌱 Atualmente estou aprendendo: **HTML - CSS - JAVASCRIPT - REACT JS - REACT NATIVE**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
+- 👨‍💻 Todos os meus projetos estão disponíveis em: at [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
-- 📫 How to reach me **johannes001002@gmail.com**
+- 📫 Como chegar até mim: **johannes001002@gmail.com**
 
-- ⚡ Fun fact **Os meus amigos me acham muito calmo. ✌🕊**
+- ⚡ Curiosidade: **Os meus amigos me acham muito calmo. ✌🕊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
