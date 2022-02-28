@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋,eu sou Johannes A.</h1>
 <h3 align="center">Em busca de me aperfeiçoar nas tecnologias HTML - CSS - JAVASCRIPT - REACT.JS - REACT NATIVE</h3>
 
-- 🌱 Atualmente estou aprendendo: Javascript
+- 🌱 Atualmente estou aprendendo: **JavaScript**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
@@ -9,7 +9,7 @@
 
 - ⚡ Curiosidade: **Os meus amigos me acham muito calmo. ✌🕊**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johannes-alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johannes-alves" height="30" width="40" /></a>
 </p>
