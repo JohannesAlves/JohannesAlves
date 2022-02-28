@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo: **HTML - CSS - JAVASCRIPT - REACT JS - REACT NATIVE**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: at [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
+- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
 - 📫 Como chegar até mim: **johannes001002@gmail.com**
 
