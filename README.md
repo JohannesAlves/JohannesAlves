@@ -1,9 +1,9 @@
 <h1 align="center">Olá! 👋,eu sou Johannes A.</h1>
 <h3 align="center">Em busca de me aperfeiçoar nas tecnologias HTML - CSS - JAVASCRIPT - REACT.JS - REACT NATIVE</h3>
 
-- 🌱 Atualmente estou aprendendo: **JavaScript**
+- 🔥 Atualmente estou aprendendo: **JavaScript**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
+- 💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
 - 📫 Como chegar até mim: **johannes001002@gmail.com**
 
