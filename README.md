@@ -1,5 +1,3 @@
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQHRrrQlXgAURw/profile-displaybackgroundimage-shrink_350_1400/0/1657908341468?e=1663200000&v=beta&t=tzlMdXPPpokESSjQ_45vqxef2koiTz8L9h4dh_UzqMM">
-
 <h1 align="center">Olá! 👋,eu sou o Johannes Alves.</h1>
 <h3 align="center">Em busca de me aperfeiçoar nas tecnologias HTML - CSS - JAVASCRIPT - REACT.JS - REACT NATIVE</h3>
 <h4 align="center">🔱 "A perseverança realiza o impossível". 🔱</h4>
