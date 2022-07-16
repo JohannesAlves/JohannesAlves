@@ -2,7 +2,7 @@
 <h3 align="center">Em busca de me aperfeiçoar nas tecnologias HTML - CSS - JAVASCRIPT - REACT.JS - REACT NATIVE</h3>
 <h4 align="center">🔱 "A perseverança realiza o impossível". 🔱</h4>
 
-- 🔥 Atualmente estou aprendendo: **JavaScript**
+- 🔥 Atualmente estou aprendendo: **React Js**
 
 - 💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
