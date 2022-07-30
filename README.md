@@ -4,6 +4,8 @@
 
 - 🔥 Atualmente estou aprendendo: **React Js**
 
+- 📚 Metas de estudo a alcançar: TypeScript, Styled-Components, Next.Js, React Native
+
 - 💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
 - 📫 Como chegar até mim: **johannes001002@gmail.com**
