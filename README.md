@@ -1,9 +1,9 @@
 ![capa](https://user-images.githubusercontent.com/26844656/200121491-d92d7dd8-84b7-4aca-9841-b4fbf0b8eb63.png)
 
 
-- 🔥 Atualmente estou aprendendo: **TypeScript**
+- 🔥 Atualmente estou aprendendo: Jest & React Testing Library / Atomic Design.
 
-- 📚 Metas de estudo a alcançar: TypeScript, Styled-Components, Next.Js, React Native
+- 📚 Metas de estudo a alcançar: Next.Js, React Native
 
 - 💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
