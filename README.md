@@ -1,7 +1,7 @@
 ![capa](https://user-images.githubusercontent.com/26844656/200121491-d92d7dd8-84b7-4aca-9841-b4fbf0b8eb63.png)
 
 
-- 🔥 Atualmente estou aprendendo: Jest & React Testing Library & GraphQL + Apollo Client.
+- 🔥 Atualmente estou aprendendo: Cypress (Testes E2E)
 
 - 📚 Metas de estudo a alcançar: React Native
 
