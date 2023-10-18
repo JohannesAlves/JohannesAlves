@@ -1,9 +1,9 @@
 ![capa](https://user-images.githubusercontent.com/26844656/200121491-d92d7dd8-84b7-4aca-9841-b4fbf0b8eb63.png)
 
 
-- 🔥 Atualmente estou aprendendo: Cypress (Testes E2E)
+- 🔥 Atualmente estou aprendendo: React Native
 
-- 📚 Metas de estudo a alcançar: React Native
+- 📚 Metas de estudo a alcançar: Kotlin
 
 - 💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
 
