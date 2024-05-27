@@ -1,11 +1,14 @@
 ![capa](https://user-images.githubusercontent.com/26844656/200121491-d92d7dd8-84b7-4aca-9841-b4fbf0b8eb63.png)
 
 
+
+- Veja mais: [Portfolio](https://johannes-alves.framer.website/)
+
 - 🔥 Atualmente estou aprendendo: React Native
 
 - 📚 Metas de estudo a alcançar: Kotlin
 
-- 💻 Todos os meus projetos estão disponíveis em: [https://github.com/JohannesAlves](https://github.com/JohannesAlves)
+- 💻 Todos os meus projetos estão disponíveis em: [Github](https://github.com/JohannesAlves)
 
 - 📫 Como chegar até mim: **johannes001002@gmail.com**
 
